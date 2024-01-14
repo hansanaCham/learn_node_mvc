@@ -1,7 +1,7 @@
 {
-  "name": "learn-node-html-templating",
+  "name": "learn-node-mvc",
   "version": "1.0.0",
-  "description": "learn a html templating with node",
+  "description": "learn a mvc with node",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
@@ -14,8 +14,6 @@
   "dependencies": {
     "body-parser": "^1.20.2",
     "ejs": "^3.1.9",
-    "express": "^4.18.2",
-    "express-handlebars": "^7.1.2",
-    "pug": "^3.0.2"
+    "express": "^4.18.2"   
   }
 }
